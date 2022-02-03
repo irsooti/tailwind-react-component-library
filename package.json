@@ -1,6 +1,6 @@
 {
   "name": "tailwind-react-component-library",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "https://dev.to/alexeagleson/how-to-create-and-publish-a-react-component-library-2oe",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
