@@ -1,0 +1,6 @@
+.root {
+  @apply bg-black;
+  & * {
+    @apply text-center;
+  }
+}
