@@ -1,6 +1,5 @@
-import { useEffect } from 'react';
-import classes from './Button.module.css';
-
+import { useEffect } from "react";
+import classes from "./Button.module.css";
 export interface ButtonProps {
   label: string;
 }
