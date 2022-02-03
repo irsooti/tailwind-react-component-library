@@ -1,5 +1,5 @@
 {
-  "name": "aesys-react-component",
+  "name": "tailwind-react-component-library",
   "version": "1.0.0",
   "description": "https://dev.to/alexeagleson/how-to-create-and-publish-a-react-component-library-2oe",
   "main": "dist/cjs/index.js",
