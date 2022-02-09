@@ -2,4 +2,4 @@
 
 ## Why
 
-The urge to build fast and battleproof react component library, easily to develop, test and deploy.
+The urge to build fast and battleproof react component library, easy to develop, test and deploy.
